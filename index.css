@@ -1,0 +1,20 @@
+#main #board {
+  height: 450px;
+  width: 450px;
+  margin: 0 auto 0 auto;
+  border: 1px black solid;
+  box-sizing: content-box; }
+#main #restart {
+  margin: 10px auto 10px auto;
+  height: 50px;
+  width: 200px;
+  border: 1px black solid;
+  background-color: #e1e6ef;
+  text-align: center;
+  line-height: 50px;
+  font-size: 20px; }
+  #main #restart:hover {
+    cursor: pointer;
+    border-width: 3px; }
+
+/*# sourceMappingURL=index.css.map */
